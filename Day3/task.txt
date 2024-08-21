@@ -1,0 +1,9 @@
+// hierarchical inheritance with code 
+
+// const => access on variable with dataType const
+//  and use it in code
+
+// composition (الاعتماديه)==> code
+// abstract class  and interface 
+== different between them , with code
+
