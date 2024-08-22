@@ -1,0 +1,4 @@
+// profile => print data of user in design
+// data of user => image (upload image)
+// session => userData store in session
+// session in php 
